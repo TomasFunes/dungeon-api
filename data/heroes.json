@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Warrior",
+    "stats": {
+      "strength": 5,
+      "dextery": 2,
+      "intelligence": 2
+    }
+  },
+  {
+    "id": "2",
+    "title": "Mage",
+    "stats": {
+      "strength": 1,
+      "dextery": 2,
+      "intelligence": 5
+    }
+  },
+  {
+    "id": "3",
+    "title": "Healer",
+    "stats": {
+      "strength": 2,
+      "dextery": 2,
+      "intelligence": 5
+    }
+  },
+  {
+    "id": "4",
+    "title": "Thief",
+    "stats": {
+      "strength": 2,
+      "dextery": 5,
+      "intelligence": 3
+    }
+  },
+  {
+    "id": "5",
+    "title": "Archer",
+    "stats": {
+      "strength": 3,
+      "dextery": 5,
+      "intelligence": 3
+    }
+  },
+  {
+    "id": "6",
+    "title": "Warlock",
+    "stats": {
+      "strength": 1,
+      "dextery": 3,
+      "intelligence": 5
+    }
+  },
+  {
+    "id": "7",
+    "title": "Paladin",
+    "stats": {
+      "strength": 4,
+      "dextery": 3,
+      "intelligence": 3
+    }
+  },
+  {
+    "id": "8",
+    "title": "Bard",
+    "stats": {
+      "strength": 2,
+      "dextery": 4,
+      "intelligence": 4
+    }
+  },
+  {
+    "id": "9",
+    "title": "Druid",
+    "stats": {
+      "strength": 3,
+      "dextery": 4,
+      "intelligence": 4
+    }
+  },
+  {
+    "id": "10",
+    "title": "Necromancer",
+    "stats": {
+      "strength": 2,
+      "dextery": 3,
+      "intelligence": 5
+    }
+  }
+]
